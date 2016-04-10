@@ -1,6 +1,6 @@
-9845b9a6d103954b3d912aca4fde003f *DESCRIPTION
-857d566b07e3f43640457087dcf81564 *NAMESPACE
+023066a1c4a34aa0ff239683c5800c7a *DESCRIPTION
+984867c7df6f2a24c3a6fbacf7047fb2 *NAMESPACE
 6800c5c86dced5174ce340206e6a0a1d *R/plot3d.prcurve.R
 e84dbce4e03485748eb6cd186a6666cb *README.md
 f022cffe7a2c6f52ac5cfb5dfe7f1c48 *man/plot3d.prcurve.Rd
-16d8e39d3d0917ad73d7408d9890031f *tests/Examples/analogueExtra-Ex.Rout.save
+7d8b30bbc55f22428b9ff8702c3f663b *tests/Examples/analogueExtra-Ex.Rout.save
